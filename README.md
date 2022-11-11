@@ -14,3 +14,6 @@ The evolutionary process begins with a simple perceptron-like feed-forward neura
 
 [![AGPL License](https://img.shields.io/badge/Java-16.0-brightgreen)](http://www.gnu.org/licenses/agpl-3.0/)
 ![GraphStream](https://img.shields.io/badge/GraphStream-1.3-red)
+
+##Research Paper
+Research papaer available at: 

@@ -16,4 +16,4 @@ The evolutionary process begins with a simple perceptron-like feed-forward neura
 ![GraphStream](https://img.shields.io/badge/GraphStream-1.3-red)
 
 ## Research Paper
-Research papaer available at: ![Research paper](https://github.com/ZeerakBaig/Neat-for-Speed/blob/master/Research_Paper/Baig_ZM_YP_ResearchPaper_2022.pdf)
+Research papaer available at: [Research paper](https://github.com/ZeerakBaig/Neat-for-Speed/blob/master/Research_Paper/Baig_ZM_YP_ResearchPaper_2022.pdf)

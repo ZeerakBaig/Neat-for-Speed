@@ -1,5 +1,5 @@
 # NEAT for Speed
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ZeerakBaig/Neat-for-Speed/blob/master/Logo6.png)
 
 NEAT for Speed, a simulation system modelling autonomous vehicle navigation control by neuroevolution of augmenting topologies inspired algorithm. The project demonstrates an exciting optimization technique by a method of evolving neural networks with a genetic algorithm. NEAT puts into practice the theory that it is best to begin evolution with small, simple networks and let them grow in complexity over generations. In this way, neural networks in NEAT progress in complexity exactly as organisms in nature have since the first cell. Finding extremely intricate and complicated neural networks is made possible by this process of continuous elaboration. The project simulates an environment where each vehicle is represented by a neural network. The topology of such vehicles becomes more and more complicated as the evolutionary process progresses through discrete steps. The key techniques applied for developing this algorithm include: 
 - Tracking genes through historical markers to allow crossover among topologies
